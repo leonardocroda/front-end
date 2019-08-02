@@ -1,0 +1,39 @@
+main h1{
+    font-size: 60px;
+    background-color: rgb(133,25,68);
+    color: #FFF;
+    text-align: center;
+}
+main a{
+    color: #851944;
+}
+h2{
+    font-size: 40px;
+}
+h1, h2{
+    font-family: "Open Sans Condensed";
+}
+body{
+    background-color: #F2FFFC;
+}
+p{
+    text-align: justify;
+    font-family: "Crimson Text";
+}
+blockquote{
+    background-color: #D9E5E3;
+}
+aside{
+    background-color: #3C1D3D;
+}
+a{
+    color: #F2FFFC;
+    font-family:"Open Sans Condensed";
+}
+footer{
+    background-color: black;
+    color: #F2FFFC;
+}
+aside a{
+    color: inherit;
+}
