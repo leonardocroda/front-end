@@ -3,29 +3,48 @@ main h1{
     background-color: rgb(133,25,68);
     color: #FFF;
     text-align: center;
+    padding: 25px;
+    margin: 0px;
+    border-bottom: 10px solid black;
 }
 main a{
     color: #851944;
 }
 h2{
-    font-size: 40px;
+    font-size: 30px;
+    
 }
 h1, h2{
     font-family: "Open Sans Condensed";
 }
 body{
     background-color: #F2FFFC;
+    line-height: 1.5;
 }
 p{
     text-align: justify;
     font-family: "Crimson Text";
+    margin: 20px 0;
 }
 blockquote{
     background-color: #D9E5E3;
+    padding: 10px;
+    border: 10px solid #C2CCCA;
+    width: 250px;
+    margin: 20px 40px;
+    box-sizing: border-box;
 }
 aside{
     background-color: #3C1D3D;
-    color: #F2FFFC;
+    padding: 20px;
+    text-align: center;
+}
+aside h1{
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+aside a{
+    color: inherit;
 }
 a{
     color: #F2FFFC;
@@ -34,7 +53,18 @@ a{
 footer{
     background-color: black;
     color: #F2FFFC;
+    padding: 20px;
 }
-aside a{
-    color: inherit;
+main div {
+    width: 720px;
+    margin: auto;
+    padding: 30px 0;
 }
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
+
