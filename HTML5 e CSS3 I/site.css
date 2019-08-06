@@ -38,6 +38,7 @@ aside{
     background-color: #3C1D3D;
     padding: 20px;
     text-align: center;
+    color: #f2fffc
 }
 aside h1{
     font-size: 30px;
@@ -45,6 +46,9 @@ aside h1{
 }
 aside a{
     color: inherit;
+}
+aside li{
+    display: inline-block;
 }
 a{
     color: #F2FFFC;
